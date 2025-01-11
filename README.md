@@ -9,7 +9,7 @@
 
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 
 <br /> 
@@ -30,9 +30,6 @@
 
 <br /><br /><br />
 
-<img align="left" alt="Superb-Man's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Superb-Man&show_icons=true" />
 
-[website]: /
-[facebook]: /
-[linkedin]:/
+[linkedin]:https://www.linkedin.com/in/larakhanom/
 
