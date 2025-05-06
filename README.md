@@ -2,7 +2,7 @@
 
 
 - 💻 I ~like~ **love** coding
-- 🧠 I’m currently solving problems from leetcode. 
+- 🧠 ~I’m currently solving problems from leetcode.~
 - 📚 ~I’m currently working on my thesis about api security~
 - 👧 I’m looking foward to learn more and connect with people
  ### Connect with me:
