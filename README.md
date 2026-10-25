@@ -2,8 +2,9 @@
 
 
 - 💻 I ~like~ **love** coding
+- 🧠  I am interested in software and system security
 - 🧠 ~I’m currently solving problems from leetcode.~
-- 📚 ~I’m currently working on my thesis about api security~
+- 📚 I’m currently working on api security research domain
 - 👧 I’m looking foward to learn more and connect with people
  ### Connect with me:
 
